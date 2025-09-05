@@ -98,10 +98,19 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através desta plat
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas e Tecnologias
 
 <p>
   <img 
@@ -120,8 +129,14 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através desta plat
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelrb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=natanaelrb&theme=tokyonight&card_width=885"
+  />
 
-
-
+</p>
 
