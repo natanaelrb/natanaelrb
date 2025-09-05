@@ -129,14 +129,4 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através desta plat
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelrb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=natanaelrb&theme=tokyonight&card_width=885"
-  />
-
-</p>
-
+<p>
