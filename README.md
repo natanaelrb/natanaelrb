@@ -3,7 +3,7 @@
 **`Estudante de ADS | Desenvolvedor Backend / Fullstack`**
 
 Me chamo Natanael da Silva Ribeiro, tenho 19 anos e sou natural do Piauí. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) - EAD. Estou focado em Java Backend e explorando HTML, CSS e JavaScript para me tornar fullstack.
-Sou apaixonado por tecnologia e compartilho meu conhecimento através desta plataforma, além do LinkedIn com o perfil "[Natanael Ribeiro](https://www.linkedin.com/in/natanael-ribeiro-b4b944367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" , onde você pode entrar em contato comigo, e pelo meu Instagram, com o perfil "[ɴᴀᴛᴀɴ](https://www.instagram.com/_natanrb?igsh=ZWZvajh1NGNwZml4)". Gosto criar projetos práticos para aprender e compartilhar conhecimento.
+Sou apaixonado por tecnologia e compartilho meu conhecimento através desta plataforma, além do LinkedIn com o perfil "[Natanael Ribeiro](https://www.linkedin.com/in/natanael-ribeiro-b4b944367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" , onde você pode entrar em contato comigo, e pelo meu Instagram, com o perfil "[ɴᴀᴛᴀɴ](https://www.instagram.com/_natanrb?igsh=ZWZvajh1NGNwZml4)". Gosto de criar projetos práticos para aprender e compartilhar conhecimento.
 
 <p align="left">
     <a href="https://www.instagram.com/_natanrb" target="_blank">
