@@ -1,34 +1,22 @@
-## Olá, eu sou o Natanael 👋
+  ### 🙋🏻‍♂️ Olá, Me chamo Natanael Ribeiro  
+----------------------------------------------------------------
+                              
+### Desenvolvedor de Software Backend com foco em Java e Spring Boot 👨🏻‍💻
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor **Back-end em formação prática**, com foco em **Java**  
-🌐 Experiência complementar em **Python (Django)** e **Frontend Web (React)**  
-🚀 Construindo projetos reais e evoluindo constantemente como desenvolvedor
-
----
-
-### 🌐 Conecte-se comigo
-<p>
-  <a href="mailto:ribeironatanael155@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/natanael-ribeiro-b4b944367/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_natanrb?igsh=ZWZvajh1NGNwZml4">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+Estudande em Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de APIs RESET utilizando Java, Spring Boot, autenticação com JWT, integração com banco de dados MySQL, segurança e persistência de dados.  Utilizo projetos práticos para consolidar meus estudos e evoluir continuamente na área de backend.
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api?username=natanaelrb&show_icons=true&theme=radical&cache_seconds=1800"/>
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelrb&layout=donut&theme=radical&langs_count=8&cache_seconds=1800"/>
-</p>
+📌 Tecnologias: Java, Spring Boot, Spring Security, Spring Data JPA, SQL
+
+📂 Projetos: APIs REST, autenticação com JWT, CRUD de usuários
+
+## 📫 Contato
+LinkedIn: www.linkedin.com/in/natanaelribeirodev/
+
+E-mail: ribeironatanael155@gmail.com
+
+GitHub: https://github.com/natanaelrb
 
 ---
 
@@ -48,8 +36,27 @@
 
 ---
 
-### 📌 Projetos em Destaque
-- **Edu-Analytics** – Sistema de análise de desempenho educacional (Backend e Frontend)  
-- **SimpleMooc** – Plataforma de cursos online desenvolvida com Django  
-- **EduTrack** – Sistema em desenvolvimento em equipe, focado em gestão e análise de dados
-- **Client Management API** – API REST para gerenciamento de clientes
+## 📌 Projetos em Destaque
+
+### 🔐 Client Management API
+API REST para cadastro de usuários e clientes com:
+- Autenticação via JWT
+- Controle de acesso com Spring Security
+- Persistência em banco MySQL
+- Estrutura organizada em camadas (Controller, Service, Repository)
+
+🔗 Link do projeto:  
+👉 https://github.com/natanaelrb/client-management-api
+
+---
+
+## 📈 Em aprendizado contínuo
+
+Atualmente estudando:
+- Estruturas de dados
+- Boas práticas de arquitetura
+- Testes automatizados
+- Docker
+- Desenvolvimento Full Stack
+
+---
