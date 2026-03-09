@@ -1,7 +1,7 @@
   ### 🙋🏻‍♂️ Olá, Me chamo Natanael Ribeiro  
 ----------------------------------------------------------------
                               
-### 👨🏻‍💻 Sou Desenvolvedor Backend com foco em Java e Spring Boot
+### 👨🏻‍💻 Desenvolvedor Backend com foco em Java e Spring Boot
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, focado no desenvolvimento de **APIs REST robustas e seguras utilizando Java e Spring Boot**.
 
