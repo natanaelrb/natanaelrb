@@ -1,15 +1,15 @@
   ### 🙋🏻‍♂️ Olá, Me chamo Natanael Ribeiro  
 ----------------------------------------------------------------
                               
-### Desenvolvedor de Software Backend com foco em Java e Spring Boot 👨🏻‍💻
+### 👨🏻‍💻 Sou Desenvolvedor Backend com foco em Java e Spring Boot
 
-Estudande em Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de APIs RESET utilizando Java, Spring Boot, autenticação com JWT, integração com banco de dados MySQL, segurança e persistência de dados.  Utilizo projetos práticos para consolidar meus estudos e evoluir continuamente na área de backend.
+Estudante de **Análise e Desenvolvimento de Sistemas**, focado no desenvolvimento de **APIs REST robustas e seguras utilizando Java e Spring Boot**.
+
+Tenho experiência na construção de **aplicações backend com autenticação JWT, controle de acesso com Spring Security, integração com banco de dados MySQL e arquitetura em camadas**.
+
+Utilizo **projetos práticos** para consolidar conhecimentos em engenharia de software e evoluir continuamente no desenvolvimento backend.
 
 ---
-
-📌 Tecnologias: Java, Spring Boot, Spring Security, Spring Data JPA, SQL
-
-📂 Projetos: APIs REST, autenticação com JWT, CRUD de usuários
 
 ## 📫 Contato
 LinkedIn: www.linkedin.com/in/natanaelribeirodev/
@@ -20,43 +20,82 @@ GitHub: https://github.com/natanaelrb
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+# 📌 Linguagens
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+# ⚙️ Frameworks & Tecnologias
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+# 🛠️ Ferramentas & Banco de Dados
 
-### 🔐 Client Management API
-API REST para cadastro de usuários e clientes com:
-- Autenticação via JWT
-- Controle de acesso com Spring Security
-- Persistência em banco MySQL
-- Estrutura organizada em camadas (Controller, Service, Repository)
-
-🔗 Link do projeto:  
-👉 https://github.com/natanaelrb/client-management-api
+<p>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 Em aprendizado contínuo
 
-Atualmente estudando:
+# 📌 Projetos em Destaque
+
+### 🔐 Client Management API
+API REST para gerenciamento de usuários e clientes com:
+
+- Autenticação com **JWT**
+- Controle de acesso com **Spring Security**
+- Persistência de dados com **MySQL e JPA**
+- Arquitetura em camadas (**Controller, Service, Repository, DTO**)
+
+🔗 Projeto:  
+https://github.com/natanaelrb/client-management-api
+
+---
+
+### 🏦 CoreBank API *(em desenvolvimento)*
+
+API REST de um **mini banco digital**, desenvolvida com **Java e Spring Boot**, simulando operações bancárias reais.
+
+Funcionalidades planejadas:
+
+- Criação de contas bancárias
+- Depósitos e saques
+- Transferências entre contas
+- Registro de transações
+- Arquitetura em camadas
+- Regras de negócio bancárias
+
+🔗 Projeto:  
+https://github.com/natanaelrb/corebank-api
+
+---
+
+# 📈 Em aprendizado contínuo
+
+Atualmente estudando e praticando:
+
 - Estruturas de dados
-- Boas práticas de arquitetura
-- Testes automatizados
+- Arquitetura de software
+- Testes automatizados (JUnit e Mockito)
 - Docker
+- APIs REST avançadas
 - Desenvolvimento Full Stack
 
 ---
